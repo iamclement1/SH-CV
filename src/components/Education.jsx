@@ -1,4 +1,5 @@
 import React from 'react'
+import Skills from './Skills'
 
 function Education() {
     return (
@@ -22,6 +23,9 @@ function Education() {
                 </div>
             </section>
 
+            <section>
+                <Skills />
+            </section>
         </main>
     </div>
     
