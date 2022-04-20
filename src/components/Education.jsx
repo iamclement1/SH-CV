@@ -2,9 +2,7 @@ import React from 'react'
 
 function Education() {
     return (
-    <div className="pt-10">
-        <hr className="border-blue-400" />
-        
+    <div className="w-2/3">
         <main>
             <section className="p-10">
                 <div>
