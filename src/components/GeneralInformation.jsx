@@ -31,6 +31,8 @@ function GeneralInformation() {
                 </p>
             </div>
         </section>
+
+        
     </div>
   )
 }
